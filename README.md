@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning JS, python
 - 💞️ I’m looking to collaborate on nothing!
 - 📫 contact me on "Shohantj@gmail.com"
-- 🎭 Facebook - "www.facebook.com/AmiShohantj"
-- 💀 My protfolio "https://shohanurrahmanshohan.github.io/portfolio/"
+- 🎭 [ Facebook ](www.facebook.com/AmiShohantj)
+- 💀 [My protfolio ](https://shohanurrahmanshohan.github.io/portfolio)
