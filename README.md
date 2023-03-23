@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ShohanurRahmanShohan
-- 🤠16 Years old 
+- 🤠18 Years old 
 - 👀 I’m interested in webdevelopment, Programming
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning reactJS
 - 💞️ I’m looking to collaborate on nothing!
 - 📫 contact me on "Shohantj@gmail.com"
-- 🎭 [ Facebook ](www.facebook.com/AmiShohantj)
-- 💀 [My protfolio ](https://shohanurrahmanshohan.github.io/portfolio)
+- 🎭 [ Facebook ](www.facebook.com/0shohan0)
